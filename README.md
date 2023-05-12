@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sasindu Ishanka</h1>
 <h3 align="center">A passionate Software Engineer from Srilanka</h3>
-
 <img align="center" alt="coding" width= "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasinduishanka&label=Profile%20views&color=0e75b6&style=flat" alt="sasinduishanka" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasinduishanka&label=Profile%20views&color=0e75b6&style=flat-square" alt="sasinduishanka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasinduishanka" alt="sasinduishanka" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sasinduishanka" target="blank"><img src="https://img.shields.io/twitter/follow/sasinduishanka?logo=twitter&style=for-the-badge" alt="sasinduishanka" /></a> </p>
+
+- 🔭 I’m currently studying at **National Institute of Business Management - Galle ..**
+
+- 👨‍💻 All of my projects are available at [https://github.com/SasinduIshanka](https://github.com/SasinduIshanka)
 
 - 💬 Ask me about **076 6467597**
 
@@ -31,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasinduishanka&show_icons=true&locale=en&layout=compact" alt="sasinduishanka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasinduishanka&show_icons=true&locale=en" alt="sasinduishanka" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasinduishanka&show_icons=true&theme=radical&hide_border=true&locale=en" alt="sasinduishanka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasinduishanka&" alt="sasinduishanka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasinduishanka&theme=highcontrast" alt="sasinduishanka" /></p>
